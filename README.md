@@ -1,2 +1,3 @@
 # hello-world
-This repository is a tutorial based repository so I can become familiar with it.
+I am working on learning the repository git-hub tutorial.  
+Hopefully this provides a good way to move forward. 
